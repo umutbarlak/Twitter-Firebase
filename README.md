@@ -1,9 +1,45 @@
-# React + Vite
+<h1>Firebase-Twitter</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje React ve Firebase kullanılarak oluşturulmuş bir Twitter projesidir.
 
-Currently, two official plugins are available:
+Kullanılan özellikler;
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Twitter-Firebase
+- Firebase
+
+- React-Router-Dom
+
+- Momment
+
+- React-Toastify
+
+- React-Icons
+
+- uuid
+
+- Emoji-mart
+
+Projenin bize sunduğu özellikler;
+
+- Uygulamaya giriş için iki seçenek sunmakta, Email ile kayıt ve Google hesabıyla kayıt,
+
+- Kayıt yaptıktan sonra şifre unutulursa şifre yenileme emaili gönderilerek şifre değiştirme,
+
+- Gönderi paylaşma ve gönderin içeriğinde fotoğraf, yazı ve emoji kullanabilme,
+
+- Gönderileri;
+  -- Güncelleme
+  -- Beğenme,
+  -- Yorum Yapma,
+  -- Düzenleme,
+
+- Yapılan tweetleme, silme, güncelleme gibi aksiyonları toastify ile bildirme
+
+- Responsive tasarım ile farklı ekran boyutlarına uygunluk
+
+<h2>Kullanılan Diller</h2>
+
+Bu projede React kullanılmıştır
+
+<h2>Ekran Videosu</h2>
+
+![](twitter.gif)
